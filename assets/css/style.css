@@ -1,0 +1,10 @@
+*{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: rgb(6, 6, 28)
+}
+header{
+    text-align: center;
+    font-size: 60px;
+}
